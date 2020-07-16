@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-sping-boot
+  description: spring-boot
+spec:
+  type: website
+  lifecycle: experimental
+  owner: guest
